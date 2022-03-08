@@ -5,7 +5,7 @@ import { colorOptions, color } from '../stories/argTypes'
 import { OverviewBox } from '../stories/overviewBox'
 
 export default {
-    title: 'components/Button',
+    title: 'components/atoms/Button',
     component: Button,
     argTypes: {
         color,

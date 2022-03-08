@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography'
 import { colorOptions, color } from '../stories/argTypes'
 
 export default {
-    title: 'Components/Typography',
+    title: 'components/atoms/Typography',
     component: Typography,
     argTypes: {
         color,
